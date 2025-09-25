@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Turn your expertise into instant revenue"
+	subtitle="Transform from displaced professional to monetized expert with AI-powered onboarding and instant payment integration. Start earning from your knowledge today."
+	imageSrc="/generated/image-a-professional-consultant-stands-and-spe.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders" 
+	logoUrls={[
+		'https://cdn.brandfetch.io/masterclass.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/teachable.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/thinkific.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/skillshare.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
