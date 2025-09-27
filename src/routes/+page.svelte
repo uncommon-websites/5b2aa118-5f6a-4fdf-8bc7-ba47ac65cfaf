@@ -98,4 +98,4 @@ Whether you're transitioning from corporate roles or expanding your consulting p
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction />

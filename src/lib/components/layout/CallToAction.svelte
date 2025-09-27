@@ -50,11 +50,14 @@
 
 	// Props
 	const {
-		title = "Get started today",
-		subtitle = "Join now",
-		description = "Ready to experience the difference? Join our community of satisfied customers and see how our solution can transform your workflow. ",
-		imageSrc = "https://www.unc.mn/image-placeholder.svg",
-		callsToAction = [cta],
+		title = "Start earning today, not someday",
+		subtitle = "No code. No delays. Just income.",
+		description = "Don't spend another week debating domain names or tweaking themes. PulsePage gets you from idea to income in one sitting. It's free to start with no design skills or setup time required.",
+		imageSrc = "/generated/image-a-confident-professional-consultant-work.webp",
+		callsToAction = [
+			{ href: "/get-started", label: "Create your expert profile now", variant: "primary" },
+			{ href: "/learn-more", label: "See how it works", variant: "secondary" }
+		],
 		...rest
 	}: {
 		title?: string;
