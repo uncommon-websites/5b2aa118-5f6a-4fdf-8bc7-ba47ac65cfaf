@@ -30,5 +30,17 @@
   {
     "prompt": "A confident professional consultant working in a stylish, modern home office. The consultant is seated at a desk with natural light streaming in from a nearby window, surrounded by tasteful, contemporary decor such as indoor plants, bookshelves, and comfortable furniture. The environment feels organized and welcoming, with subtle variations in the consultant’s posture, outfit, and desk accessories to add visual interest. No technology, screens, or text are visible in the scene.",
     "filename": "/generated/image-a-confident-professional-consultant-work.webp"
+  },
+  {
+    "prompt": "Professional headshot of a confident business executive in a modern, well-lit office setting, featuring natural light, soft background blur with subtle hints of office furniture and greenery, business attire, warm and approachable expression. Vary the executive's gender, age, and ethnicity for diversity.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-bus.webp"
+  },
+  {
+    "prompt": "Professional headshot of a tech industry leader in a contemporary workspace, with a stylish, airy environment, visible background details like bookshelves, plants, and tasteful office decor, leader in smart-casual attire, friendly and self-assured demeanor. Vary the leader's gender, age, and ethnicity for diversity.",
+    "filename": "/generated/image-professional-headshot-of-a-tech-industry.webp"
+  },
+  {
+    "prompt": "A diverse group of confident professionals engaged in collaboration in a stylish, modern workspace. The setting features natural lighting, comfortable contemporary furniture, and subtle decorative plants. Some people are standing while others are seated at a table, actively discussing and interacting with each other. The environment feels energetic yet relaxed, with a mix of business casual attire, and there is visible diversity in age, gender, and ethnicity. Variation: change the arrangement of people and furniture, alternate between different types of seating (chairs, couches), and adjust the number of participants for each image while maintaining the same overall vibe and style.",
+    "filename": "/generated/image-a-diverse-group-of-confident-professiona.webp"
   }
 ]
